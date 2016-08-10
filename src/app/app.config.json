@@ -1,0 +1,14 @@
+{
+  "appname": "InnovateAdmin8-10",
+  "scope": "DevCenterImpersonate",
+  "clientid": "446AE84E-C23D-40F0-B761-A50CED9B0ADA",
+  "buyerid": "vendorID",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
